@@ -1,0 +1,42 @@
+# -----------------------------------------------------------------------------
+
+title:          Inteligência Computacional
+
+author:
+    name:       Chauã Queirolo
+    website:    http://github.com/chaua/inteligencia-computacional
+
+baseurl:        "https://chaua.github.io/inteligencia-computacional"
+
+color_class:        "blue darken-4"
+color_primary:      "#0d47a1"
+color_secondary:    "#2196f3"
+color_accent:       "#388e3c"
+
+# -----------------------------------------------------------------------------
+# Build settings
+# -----------------------------------------------------------------------------
+
+markdown: kramdown
+
+plugins:
+    - jekyll-feed
+    - jekyll-seo-tag
+      #    - jekyll-compress-html
+
+exclude:
+    - README.md
+    - node_modules
+    - package.json
+    - package-lock.json
+    - Gemfile
+    - Gemfile.lock
+
+compress_html:
+    comments:       ["<!-- ", " -->"]
+    clippings:      all
+    endings:        all
+
+sass:
+    style:          compressed
+
