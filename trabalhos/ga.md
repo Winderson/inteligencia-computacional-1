@@ -16,7 +16,7 @@ Escreva um programa usando algoritmos genéticos que encontra quais itens devem 
 
 O problema das 8 rainhas consiste em posicionar 8 rainhas em um tabuleiro de xadrez de modo que duas delas não se ataquem. O tabuleiro de xadrez é composto por 64 casas, dispostas em 8 linhas e 8 colunas. As rainhas atacam qualquer peça que estejam na mesma linha, coluna ou diagonal que ela.
 
-{% include image.html url="/assets/trabalhos/mochila.jpeg" description="Uma solução para o problema das 8 rainhas." %}
+{% include image.html url="/assets/trabalhos/rainhas.png" description="Uma solução para o problema das 8 rainhas." %}
 
 Escreva um programa usando algoritmos genéticos que encontre a solução para este problema.
 
