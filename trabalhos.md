@@ -6,19 +6,22 @@ layout: page
 
 ## 🏋🏼‍♂️ 1o Bimestre
 
-- [**Trabalho 1:** Algoritmo Genético](/trabalhos/ga)
+- [**Trabalho 1:** Algoritmo Genético]({{site.baseurl}}/trabalhos/ga)
     - Individual
-    - 70% da nota do estudo dirigido
-- [**Trabalho 2**: Nuvem de Partículas](/trabalhos/pso) 
+    - 60% da nota do estudo dirigido
+- [**Trabalho 2**: Nuvem de Partículas]({{site.baseurl}}/trabalhos/pso) 
     - Individual
     - 30% da nota do estudo dirigido
+- **Trabalho 3**: Artigo IC 
+    - Individual
+    - 10% da nota do estudo dirigido
 
 ## 🏋🏼‍♂️ 2o Bimestre
 
-- [**Trabalho 3:** Artigo](trabalhos/artigo)
+- [**Trabalho 4:** Artigo](trabalhos/artigo)
     - Individual
     - 70% da nota do estudo dirigido
-- [**Trabalho 4:** Implementação](trabalhos/)
+- [**Trabalho 5:** Implementação](trabalhos/)
     - Individual
     - 30% da nota do estudo dirigido
 
@@ -31,5 +34,6 @@ layout: page
 - Criar um diretório para cada projeto com os arquivos para avaliação:
     - `trabalho1`: notebook jupyter.  
     - `trabalho2`: notebook jupyter.
-    - `trabalho3`: arquivo pdf. 
-    - `trabalho4`: notebook jupyter.
+    - `trabalho3`: arquivo pdf.
+    - `trabalho4`: arquivo pdf. 
+    - `trabalho5`: notebook jupyter.
