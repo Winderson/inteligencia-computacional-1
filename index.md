@@ -17,5 +17,5 @@ Página da disciplina de Inteligência Computacional 2019-2.
 
 ## Trabalhos
 
-- `1o. bimestre...: 24/09 | `  `Trabalho 1 e 2`
-- `2o. bimestre...: 25/11 | `  `Trabalho 3`
+- `1o. bimestre...: 24/09 | `  `Trabalho 1, 2 e 3`
+- `2o. bimestre...: 25/11 | `  `Trabalho 3 e 4`
